@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieMe</string>
+    <string name="action_about">אודות</string>
+    <string name="action_clear">מחק סרטים</string>
+    <string name="action_clear_alert">כל הסרטים ימחקו</string>
+    <string name="action_delete">מחק</string>
+    <string name="action_edit">עריכה</string>
+    <string name="action_exit">יציאה</string>
+    <string name="action_rate">דירוג</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="action_share">שיתוף</string>
+    <string name="action_unwatch">בטל צפייה</string>
+    <string name="action_watched">סמן כנצפה</string>
+    <string name="add_btn">הוספה</string>
+    <string name="cancel_btn">ביטול</string>
+    <string name="change_poster">שינוי פוסטר</string>
+    <string name="clear_btn">מחיקה</string>
+    <string name="credits">"האפליקציה נבנתה על ידי איתן אפללו\n\nזכויות סרטים:\nhttp://www.omdbapi.com\nhttps://www.themoviedb.org"</string>
+    <string name="delete_movie_content">הסרט ימחק</string>
+    <string name="delete_movie_title">מחיקת סרט</string>
+    <string name="edit_activity_title">עריכת סרט</string>
+    <string name="enter_movie">אנא הכנס שם סרט</string>
+    <string name="fab_auto">הוספת סרט</string>
+    <string name="fab_manual">הוספת סרט ידנית</string>
+    <string name="imdb_actors">"שחקנים: "</string>
+    <string name="imdb_director">"במאי: "</string>
+    <string name="imdb_none">ריק</string>
+    <string name="imdb_no_plot">אין עלילה</string>
+    <string name="imdb_rate">"דירוג IMDb: "</string>
+    <string name="movie_actors">שחקנים</string>
+    <string name="movie_director">במאי</string>
+    <string name="movie_genre">ז\'אנר</string>
+    <string name="movie_lang">שפה</string>
+    <string name="movie_plot">עלילה</string>
+    <string name="movie_title">שם הסרט</string>
+    <string name="no_internet">אין חיבור אינטרנט!</string>
+    <string name="ok_btn">אישור</string>
+    <string name="pref_header_general">כללי</string>
+    <string name="pref_header_style">מראה</string>
+    <string name="rate_dialog_title">דירוג סרט</string>
+    <string name="save_btn">שמירה</string>
+    <string name="search_btn">חיפוש</string>
+    <string name="select_picture">בחירת תמונה</string>
+    <string name="share_text">"אתה חייב לצפות בסרט "</string>
+    <string name="short_name">שם הסרט קצר מידי</string>
+    <string name="title">שם הסרט</string>
+    <string name="title_activity_settings">הגדרות</string>
+    <string name="view_activity_title">פרטי הסרט</string>
+    <string name="watched">נצפה</string>
+    <string name="night_theme">מראה לילה</string>
+    <string name="items_per_row">סרטים בשורה</string>
+    <string-array name="pref_item_per_row">
+        <item>סרט אחד</item>
+        <item>שני סרטים</item>
+        <item>שלושה סרטים</item>
+        <item>ארבעה סרטים</item>
+    </string-array>
+    <string-array name="pref_item_per_row_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_sortway">
+        <item>מהחדש לישן</item>
+        <item>\"נצפו\" ראשונים</item>
+        <item>דירוג מהגבוה לנמוך</item>
+    </string-array>
+    <string-array name="pref_sortway_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="poster_items">
+        <item>צילום תמונה</item>
+        <item>בחירת תמונה מהגלריה</item>
+        <item>הכנס קישור</item>
+        <item>ביטול</item>
+    </string-array>
+    <string name="movie_not_found">סרט לא נמצא!</string>
+    <string name="movie_already_exists">הסרט כבר קיים</string>
+    <string name="no_movies">"אין סרטים בספרייה.\nלחץ על '+' כדי להוסיף סרט."</string>
+    <string name="movie_not_watched">לא נצפה</string>
+    <string name="movie_not_rated">לא דורג</string>
+    <string name="sortway">סידור לפי</string>
+    <string name="enter_url_error">קישור לא תקין</string>
+    <string name="enter_url_hint">הכנס קישור</string>
+</resources>
